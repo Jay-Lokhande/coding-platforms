@@ -10,7 +10,9 @@ for f in README.md NAVIGATION.md; do
 done
 
 mkdir -p "$SITE/resources"
-[ -f "$ROOT/resources/stay-safe.md" ] && cp "$ROOT/resources/stay-safe.md" "$SITE/resources/"
+for f in "$ROOT/resources/"*.md; do
+  [ -f "$f" ] && cp "$f" "$SITE/resources/"
+done
 
 mkdir -p "$SITE/data"
 [ -f "$ROOT/data/platforms.json" ] && cp "$ROOT/data/platforms.json" "$SITE/data/"

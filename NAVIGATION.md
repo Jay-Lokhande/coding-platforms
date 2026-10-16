@@ -2,10 +2,9 @@
 
 | I want… | Go to |
 | --- | --- |
+| **All three sister catalogs** | [resources/sister-repos.md](resources/sister-repos.md) |
 | Full tables | [README.md](README.md) |
 | GitHub Pages site | [jay-lokhande.github.io/coding-platforms](https://jay-lokhande.github.io/coding-platforms/) |
 | JSON index | [data/platforms.json](data/platforms.json) |
 | Stay safe | [resources/stay-safe.md](resources/stay-safe.md) |
-| OSS internships & hackathons | [oss-programs-and-hackathons](https://github.com/Jay-Lokhande/oss-programs-and-hackathons) |
-| AI tools | [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog) |
 | Contribute | [CONTRIBUTING.md](CONTRIBUTING.md) |

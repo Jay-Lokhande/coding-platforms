@@ -6,13 +6,17 @@
 
 - [Full tables](site/)
 - [Navigation](site/NAVIGATION.html)
+- [All three sister catalogs](site/resources/sister-repos.html)
 - [JSON index](site/data/platforms.json)
 - [Stay safe](site/resources/stay-safe.html)
 
 ## Sister repos
 
-- [oss-programs-and-hackathons](https://github.com/Jay-Lokhande/oss-programs-and-hackathons) — open-source programs & hackathons
-- [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog) — AI tools & models
+| Catalog | Pages |
+| --- | --- |
+| **All You Have To Do Is Believe** | [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) |
+| **All The AIs** | [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) |
+| **This repo** — coding platforms | [coding-platforms](https://jay-lokhande.github.io/coding-platforms/) |
 
 ## Contribute
 

@@ -4,10 +4,10 @@
 
 ## Browse
 
-- [Full tables (GitHub README)](../README.md)
-- [Navigation](../NAVIGATION.md)
-- [JSON index](../data/platforms.json)
-- [Stay safe](../resources/stay-safe.md)
+- [Full tables](site/README.html)
+- [Navigation](site/NAVIGATION.html)
+- [JSON index](site/data/platforms.json)
+- [Stay safe](site/resources/stay-safe.html)
 
 ## Sister repos
 
@@ -16,4 +16,4 @@
 
 ## Contribute
 
-[CONTRIBUTING.md](../CONTRIBUTING.md) on GitHub.
+[CONTRIBUTING.md](https://github.com/Jay-Lokhande/coding-platforms/blob/main/CONTRIBUTING.md) on GitHub.

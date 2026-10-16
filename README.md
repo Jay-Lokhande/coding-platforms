@@ -4,9 +4,9 @@ A catalog of **places to learn, practice, and build code** — DSA interview pre
 
 > **Disclaimer:** Features and pricing change. Use official sites only. See [resources/stay-safe.md](resources/stay-safe.md) for fake “coding job” scams.
 
-**Navigation:** [NAVIGATION.md](NAVIGATION.md)
+**Navigation:** [NAVIGATION.md](NAVIGATION.md) · **Hub:** [student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/)
 
-**Hub:** [student-dev-catalogs](https://github.com/Jay-Lokhande/student-dev-catalogs) · **Sister repos:** [resources/sister-repos.md](resources/sister-repos.md) · **Pages:** [coding-platforms](https://jay-lokhande.github.io/coding-platforms/) · [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/)
+**Sister repos:** [resources/sister-repos.md](resources/sister-repos.md) · **Sister Pages:** [hub](https://jay-lokhande.github.io/student-dev-catalogs/) · [oss](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [grants](https://jay-lokhande.github.io/build-grants/) · [hack-safe](https://jay-lokhande.github.io/hack-safe/) · [ai](https://jay-lokhande.github.io/ai-catalog/) · [coding](https://jay-lokhande.github.io/coding-platforms/)
 
 ---
 

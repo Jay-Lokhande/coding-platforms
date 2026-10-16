@@ -6,7 +6,7 @@ A catalog of **places to learn, practice, and build code** — DSA interview pre
 
 **Navigation:** [NAVIGATION.md](NAVIGATION.md)
 
-**Sister repos (all 3 catalogs):** [resources/sister-repos.md](resources/sister-repos.md) · **Pages:** [coding-platforms](https://jay-lokhande.github.io/coding-platforms/) · [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/)
+**Sister repos:** [resources/sister-repos.md](resources/sister-repos.md) · **Pages:** [coding-platforms](https://jay-lokhande.github.io/coding-platforms/) · [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/)
 
 ---
 

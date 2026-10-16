@@ -1,0 +1,16 @@
+[
+  {"name": "LeetCode", "category": "dsa", "url": "https://leetcode.com/"},
+  {"name": "Codeforces", "category": "competitive", "url": "https://codeforces.com/"},
+  {"name": "CodeChef", "category": "competitive", "url": "https://www.codechef.com/"},
+  {"name": "HackerRank", "category": "dsa", "url": "https://www.hackerrank.com/"},
+  {"name": "freeCodeCamp", "category": "learn", "url": "https://www.freecodecamp.org/"},
+  {"name": "CS50", "category": "learn", "url": "https://cs50.harvard.edu/"},
+  {"name": "Exercism", "category": "learn", "url": "https://exercism.org/"},
+  {"name": "GitHub Codespaces", "category": "ide", "url": "https://github.com/features/codespaces"},
+  {"name": "Replit", "category": "ide", "url": "https://replit.com/"},
+  {"name": "Google Colab", "category": "ide", "url": "https://colab.research.google.com/"},
+  {"name": "GitHub", "category": "portfolio", "url": "https://github.com/"},
+  {"name": "Coursera", "category": "mooc", "url": "https://www.coursera.org/"},
+  {"name": "Unstop", "category": "india", "url": "https://unstop.com/"},
+  {"name": "GeeksforGeeks", "category": "india", "url": "https://www.geeksforgeeks.org/"}
+]

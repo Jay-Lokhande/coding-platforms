@@ -4,7 +4,7 @@
 
 ## Browse
 
-- [Full tables](site/README.html)
+- [Full tables](site/)
 - [Navigation](site/NAVIGATION.html)
 - [JSON index](site/data/platforms.json)
 - [Stay safe](site/resources/stay-safe.html)

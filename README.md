@@ -1,6 +1,6 @@
 # Code Platforms
 
-A catalog of **places to learn, practice, and build code** — DSA interview prep, competitive programming, cloud IDEs, MOOCs, and portfolios.
+A catalog of **places to learn, practice, and build code** — DSA interview prep, competitive programming, cloud IDEs, MOOCs, and portfolios. You can [Navigation](NAVIGATION.md), find [Hub](https://jay-lokhande.github.io/student-dev-catalogs/) (all catalogs), and browse [Sister repos](resources/sister-repos.md).
 
 > **Disclaimer:** Features and pricing change. Use official sites only. See [resources/stay-safe.md](resources/stay-safe.md) for fake “coding job” scams.
 

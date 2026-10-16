@@ -4,7 +4,7 @@ A catalog of **places to learn, practice, and build code** — DSA interview pre
 
 > **Disclaimer:** Features and pricing change. Use official sites only. See [resources/stay-safe.md](resources/stay-safe.md) for fake “coding job” scams.
 
-**Navigation:** [NAVIGATION.md](NAVIGATION.md)
+**Navigation:** [NAVIGATION.md](NAVIGATION.md) · **Pages:** [jay-lokhande.github.io/coding-platforms](https://jay-lokhande.github.io/coding-platforms/)
 
 **Sister repos:** [oss-programs-and-hackathons](https://github.com/Jay-Lokhande/oss-programs-and-hackathons) · [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog)
 
